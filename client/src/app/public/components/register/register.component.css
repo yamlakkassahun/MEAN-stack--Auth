@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  max-width: 350px;
+  justify-content: center;
+  margin: 70px;
+}
+
+.login {
+}
+
+.example-card {
+  margin: auto;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+mat-button {
+  width: 100%;
+}
+.submit-btn {
+  width: 100%;
+}
